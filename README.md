@@ -1,16 +1,30 @@
-# project_test
+<h1 align="center">✨ QUIZ applica ✨ ion in Flutter </h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  <a href="#" target="_blank">
+    <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
+  </a>
+</p>
 
-A new Flutter project.
+> Quiz application is consist of cool state managment system and materialistic UI. The application has no. of good features and several other utilities
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Usage
 
-A few resources to get you started if this is your first Flutter project:
+```sh
+flutter  run
+```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Author
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+👤 **Sudarshan Sawandkar**
+
+* Linked IN : [@sudarshan-78jack/](https://www.linkedin.com/in/sudarshan-78jack/)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!!
+
+***
+_Suggestions are welcome ❤️ for any thing please raise and issue_
+
